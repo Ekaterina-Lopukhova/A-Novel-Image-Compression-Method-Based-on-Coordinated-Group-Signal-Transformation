@@ -10,8 +10,6 @@ The dataset structure is as follows:
 
 dataset-of-satellite-images/
 
-│
-
 ├──README.md
 
 ├──dataset_jpeg.zip
@@ -26,11 +24,9 @@ dataset-of-satellite-images/
 
 ├──── val/
 
-│
 
 ├──── test/
 
-│
 
 ├──dataset_png.zip
 
@@ -44,12 +40,11 @@ dataset-of-satellite-images/
 
 ├──── val/
 
-│
 
 └──── test/
 
 - **train/**: Contains original, compressed, and recovered images.
-- 
+
 - **val/** and **test/**: Contain only original images.
 
 ## Usage
