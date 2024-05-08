@@ -1,4 +1,4 @@
-# Machine-Learning-Driven-Calibration-of-Traffic-Models-with-Video-Data
+# A Novel Image Compression Method Based on Coordinated Group Signal Transformation
 
 ## Overview
 
