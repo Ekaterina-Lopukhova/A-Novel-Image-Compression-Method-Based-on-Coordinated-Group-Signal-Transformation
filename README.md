@@ -8,7 +8,7 @@ The dataset structure is as follows:
 
 dataset-of-satellite-images/
 │
-├── README.md
+├──README.md
 ├──dataset_jpeg.zip
 ├──── train/
 │ 	├── original/
@@ -27,10 +27,10 @@ dataset-of-satellite-images/
 │
 └──── test/
 
-
 - **train/**: Contains original, compressed, and recovered images.
-- **validation/** and **test/**: Contain only original images.
+- **val/** and **test/**: Contain only original images.
 
 ## Usage
-To use this dataset, clone this repository using the following command with Git LFS enabled:
+
+To use this dataset, clone the repository using the following command with Git LFS enabled:
 git lfs clone https://github.com/Ekaterina-Lopukhova/Machine-Learning-Driven-Calibration-of-Traffic-Models-with-Video-Data/dataset-of-satellite-images.zip
