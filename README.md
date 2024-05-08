@@ -33,3 +33,4 @@ dataset-of-satellite-images/
 
 ## Usage
 To use this dataset, clone this repository using the following command with Git LFS enabled:
+git lfs clone https://github.com/Ekaterina-Lopukhova/Machine-Learning-Driven-Calibration-of-Traffic-Models-with-Video-Data/dataset-of-satellite-images.zip
